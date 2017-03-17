@@ -1,0 +1,24 @@
+{
+  "name": "angular-bootstrap.app",
+  "description": "App for try features on angular bootstrap",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://github.com/JullietRUS/angular-bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+"dependencies": {
+    "angular": "1.6.x",
+    "angular-animate": "1.6.x",
+    "angular-mocks": "1.6.x",
+    "angular-resource": "1.6.x",
+    "angular-route": "1.6.x",
+   "angular-touch": "1.6.x"
+   "bootstrap-css": "3.3.x"
+   
+  }
+}
