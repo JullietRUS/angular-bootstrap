@@ -1,0 +1,24 @@
+{
+  "name": "angular-bootstrap.app",
+  "version": "1.0.0",
+  "description": "App for try features on angular bootstrap",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JullietRUS/angular-bootstrap.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JullietRUS/angular-bootstrap/issues"
+  },
+  "homepage": "https://github.com/JullietRUS/angular-bootstrap#readme",
+  "devDependencies": {
+    "bower": "^1.7.7"
+  },
+  "scripts": {
+    "postinstall": "bower install",
+"update-deps": "npm update",
+    "postupdate-deps": "bower update"
+    }
+}
